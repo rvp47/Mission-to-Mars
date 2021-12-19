@@ -18,3 +18,9 @@ This project updates the current web app that scrapes full-resolution images of 
 ![deliverable 2 images](https://user-images.githubusercontent.com/90656004/146685380-456f3e7b-7e7b-43f9-9bf7-24c078336146.PNG)
 
 ## Add Bootstrap 3 Components
+- Updated the Bootstrap grid for the Mars News section and Mars Hemispheres section to be more dynamic and flexible on mobile and desktop
+- Made the Scrape New Data button bolded and active so that it can appear to be pressed
+- Bolded all the headers and hemisphere titles
+- Made the Mars Facts table responsive 
+
+![website](https://user-images.githubusercontent.com/90656004/146686522-6fcc1ba7-3916-4c9d-8b28-e098da7949e9.PNG)
