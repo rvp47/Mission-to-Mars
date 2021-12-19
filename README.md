@@ -15,4 +15,6 @@ This project updates the current web app that scrapes full-resolution images of 
 
 ![scrape_all](https://user-images.githubusercontent.com/90656004/146684321-091db71f-d980-4ca7-859c-14ccda9b9d7a.PNG)
 
+![deliverable 2 images](https://user-images.githubusercontent.com/90656004/146685380-456f3e7b-7e7b-43f9-9bf7-24c078336146.PNG)
+
 ## Add Bootstrap 3 Components
