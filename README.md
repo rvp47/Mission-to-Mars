@@ -8,10 +8,11 @@ This project updates the current web app that scrapes full-resolution images of 
 
 ## Scrape High-Resolution Mars Hemisphere Images and Titles
 
-![code to retrieve image urls and titles](https://user-images.githubusercontent.com/90656004/146655688-3b75a93b-4ce1-4d67-ae0a-29dd30fca723.PNG)
+![code to retrieve image urls and titles](https://user-images.githubusercontent.com/90656004/146684282-e8ad5827-a573-4496-a9d5-18838ac608ab.PNG)
 ![hemisphere image urls](https://user-images.githubusercontent.com/90656004/146655693-2fef3176-4d2c-4b36-96c8-56ead5a54ebf.PNG)
 
 ## Update the Web App with Mars Hemisphere Images and Titles
 
+![scrape_all](https://user-images.githubusercontent.com/90656004/146684321-091db71f-d980-4ca7-859c-14ccda9b9d7a.PNG)
 
 ## Add Bootstrap 3 Components
